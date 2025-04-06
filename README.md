@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binuri</h1>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="(https://binuri2018.github.io/portfolio/)" target="_blank">
     <img src="https://your-image-link.com" alt="Binuri's Portfolio" width="100%" />
   </a>
 </p>
@@ -12,16 +12,16 @@
 - 🌱 I’m currently learning **Advanced React, Firebase, and Backend Optimization**
 - 💬 Ask me about **MERN stack, frontend development, or side projects**
 - 💞️ I’m looking to collaborate on **creative web or mobile app ideas that solve real-world problems**
-- 📫 How to reach me: **binuridev@gmail.com**  
+- 📫 How to reach me: **imbinuri@gmail.com**  
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: *I love turning ideas into beautiful, functional interfaces that people enjoy using!*
 
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/binuri-manodya/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/binuri2018)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fff?logo=vercel&style=for-the-badge&logoColor=black)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fff?logo=vercel&style=for-the-badge&logoColor=black)](https://binuri2018.github.io/portfolio/)
 
 ---
 
