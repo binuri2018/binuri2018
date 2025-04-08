@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binuri</h1>
 
 <p align="center">
-  <a href="(https://binuri2018.github.io/portfolio/)" target="_blank">
+  <a href="https://binuri2018.github.io/portfolio/" target="_blank">
     <img src="https://raw.githubusercontent.com/binuri2018/binuri2018/main/portfolioimg.png" alt="Binuri's Portfolio" width="100%" />
   </a>
 </p>
