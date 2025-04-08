@@ -54,6 +54,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
+#### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)
+
 ---
 
 ### 📈 GitHub Stats
@@ -62,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=binuri2018&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binuri2018&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p>  
 
 <!---
 binuri2018/binuri2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
