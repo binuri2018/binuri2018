@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Binuri</h1>
+<h1 align="center">Hi 👋, I'm Binuri. Find more about me...</h1>
 
 <p align="center">
   <a href="https://binuri2018.github.io/portfolio/" target="_blank">
