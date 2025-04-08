@@ -7,10 +7,14 @@
 </p>
 
 ---
+
+
+
 I'm an enthusiastic IT undergraduate with a deep interest in software engineering and web development. I’m driven by the challenge of creating impactful, user-centric applications that address real-world needs. With hands-on experience in full-stack development, I thrive in team settings and am quick to embrace new tools and technologies. My core strengths lie in analytical thinking, precision, clear communication, and a strong commitment to continuous learning and innovation.
 
 ### 👩‍💻 About Me
 
+- 🎓 *Education*: IT Undergraduate at SLIIT (Sri Lanka Institute of Information Technology)
 - 👀 I’m interested in **Software Engineering, Full-Stack Development, and Building Scalable Web Applications**  
 - 🌱 I’m currently learning **Advanced React, Firebase, and Backend Optimization**  
 - 💬 Ask me about **MERN stack, frontend development, or side projects**  
