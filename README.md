@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="(https://binuri2018.github.io/portfolio/)" target="_blank">
-    <img src="https://raw.githubusercontent.com/binuri2018/binuri2018/main/assets/banner.png" alt="Binuri's Portfolio" width="100%" />
+    <img src="https://raw.githubusercontent.com/binuri2018/binuri2018/main/portfolio.png" alt="Binuri's Portfolio" width="100%" />
   </a>
 </p>
 
