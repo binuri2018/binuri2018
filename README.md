@@ -7,6 +7,7 @@
 </p>
 
 ---
+I'm an enthusiastic IT undergraduate with a deep interest in software engineering and web development. I’m driven by the challenge of creating impactful, user-centric applications that address real-world needs. With hands-on experience in full-stack development, I thrive in team settings and am quick to embrace new tools and technologies. My core strengths lie in analytical thinking, precision, clear communication, and a strong commitment to continuous learning and innovation.
 
 ### 👩‍💻 About Me
 
@@ -14,8 +15,7 @@
 - 🌱 I’m currently learning **Advanced React, Firebase, and Backend Optimization**  
 - 💬 Ask me about **MERN stack, frontend development, or side projects**  
 - 💞️ I’m looking to collaborate on **creative web or mobile app ideas that solve real-world problems**  
-- 📫 Reach me at: **imbinuri@gmail.com**  
-- 😄 Pronouns: **She/Her**  
+- 📫 Reach me at: **imbinuri@gmail.com**    
 - ⚡ Fun fact: *I love turning ideas into beautiful, functional interfaces that people enjoy using!*
 
 ---
