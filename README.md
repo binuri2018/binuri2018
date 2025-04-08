@@ -39,6 +39,16 @@
 
 ---
 
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduni-ubesekara&show_icons=true&theme=radical)
+
+
+## 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viduni-ubesekara&layout=compact&theme=radical)
+
+
+
+
 <!---
 binuri2018/binuri2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
