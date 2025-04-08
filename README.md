@@ -14,7 +14,7 @@ I'm an enthusiastic IT undergraduate with a deep interest in software engineerin
 
 ### 👩‍💻 About Me
 
-- 🎓 *Education*: IT Undergraduate at SLIIT (Sri Lanka Institute of Information Technology)
+- 🎓 IT Undergraduate at SLIIT (Sri Lanka Institute of Information Technology)
 - 👀 I’m interested in **Software Engineering, Full-Stack Development, and Building Scalable Web Applications**  
 - 🌱 I’m currently learning **Advanced React, Firebase, and Backend Optimization**  
 - 💬 Ask me about **MERN stack, frontend development, or side projects**  
