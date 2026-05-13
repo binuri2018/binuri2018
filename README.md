@@ -36,6 +36,7 @@ An enthusiastic IT undergraduate with a deep interest in software engineering an
 #### 👩‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
@@ -51,6 +52,7 @@ An enthusiastic IT undergraduate with a deep interest in software engineering an
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) 
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 
@@ -66,6 +68,7 @@ An enthusiastic IT undergraduate with a deep interest in software engineering an
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=black&style=flat)
 
 #### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
@@ -82,10 +85,11 @@ An enthusiastic IT undergraduate with a deep interest in software engineering an
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binuri2018&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binuri2018&layout=compact&theme=radical" alt="Top Languages" />
-</p>  
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=binuri2018&theme=radical&no-frame=true&no-bg=true&margin-w=10" 
+    alt="GitHub Profile Trophies" 
+  />
+</p>
 
 <!---
 binuri2018/binuri2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
